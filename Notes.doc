@@ -1,0 +1,11 @@
+############ introduction #######################
+
+flex-container -> parent div
+flex items -> child divs
+
+make parent flex container by:
+display: flex;
+
+automatically the items will become inline
+
+############ terminologies #######################
